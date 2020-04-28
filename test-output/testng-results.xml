@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37" started-at="2020-04-28T10:49:32Z" finished-at="2020-04-28T10:49:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="37" started-at="2020-04-28T10:49:32Z" finished-at="2020-04-28T10:49:32Z">
+      <class name="mavenJava.functionality.WebSreviceTest">
+        <test-method status="PASS" signature="sam1()[pri:0, instance:mavenJava.functionality.WebSreviceTest@691a7f8f]" name="sam1" duration-ms="1" started-at="2020-04-28T10:49:32Z" finished-at="2020-04-28T10:49:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sam1 -->
+        <test-method status="PASS" signature="sam2()[pri:0, instance:mavenJava.functionality.WebSreviceTest@691a7f8f]" name="sam2" duration-ms="1" started-at="2020-04-28T10:49:32Z" finished-at="2020-04-28T10:49:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sam2 -->
+      </class> <!-- mavenJava.functionality.WebSreviceTest -->
+      <class name="mavenJava.functionality.RestApiTest">
+        <test-method status="PASS" signature="sam3()[pri:0, instance:mavenJava.functionality.RestApiTest@50a7bc6e]" name="sam3" duration-ms="1" started-at="2020-04-28T10:49:32Z" finished-at="2020-04-28T10:49:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sam3 -->
+        <test-method status="PASS" signature="sam4()[pri:0, instance:mavenJava.functionality.RestApiTest@50a7bc6e]" name="sam4" duration-ms="1" started-at="2020-04-28T10:49:32Z" finished-at="2020-04-28T10:49:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sam4 -->
+      </class> <!-- mavenJava.functionality.RestApiTest -->
+      <class name="mavenJava.functionality.AppiumTest">
+        <test-method status="PASS" signature="sam5()[pri:0, instance:mavenJava.functionality.AppiumTest@780cb77]" name="sam5" duration-ms="10" started-at="2020-04-28T10:49:32Z" finished-at="2020-04-28T10:49:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sam5 -->
+        <test-method status="PASS" signature="sam6()[pri:0, instance:mavenJava.functionality.AppiumTest@780cb77]" name="sam6" duration-ms="1" started-at="2020-04-28T10:49:32Z" finished-at="2020-04-28T10:49:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sam6 -->
+      </class> <!-- mavenJava.functionality.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
